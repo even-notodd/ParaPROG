@@ -12,3 +12,5 @@
 *.kicad_pcb-bak
 *-save.kicad_sch
 *-save.kicad_pcb
+
+*.zip
