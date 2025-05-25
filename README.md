@@ -120,7 +120,7 @@ Visual Studio Community Edition can be used to build or modify software.<br/>
 ## Drivers & settings
 The device works as VCP (Virtual COM Port) in all versions. 
 For Version ParaPROG 29/39/49-5V - [VCP driver](https://www.st.com/en/development-tools/stsw-stm32102.html) from ST Microelectronics should be used.
-For Version ParaPROG 49/39-mod1 - CH340 (USB-UART bridge) driver.
+For Version ParaPROG 49/39-mod1 - [CH340 (USB-UART bridge) driver](https://www.wch-ic.com/products/CH340.html) from IC manufacturer.
 
 ## Firmware
 Firmware file can be found in corresponding sub-folders. The most affordable tools to flash firmware: ST-Link (for STM32 version) and USBAVR (for ATmega16 version).
